@@ -1,0 +1,1 @@
+link to the edr tool : https://drawsql.app/teams/3n41n3/diagrams/x
